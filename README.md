@@ -38,15 +38,14 @@ wearable-battery-runtime-optimizer
 ├── README.md
 └── sample-input-output.txt
 
-HOW TO RUN:
-Navigate to the src directory.
+
 
 Compile the program:
-javac BatteryRuntimeOptimizer.java
+javac mainfunction.java
 
 
 Run the program:
-java BatteryRuntimeOptimizer
+java mainfunction
 
 Sample Output
 A sample input and corresponding output are provided in sample-input-output.txt for reference.
@@ -54,4 +53,5 @@ A sample input and corresponding output are provided in sample-input-output.txt 
 
 Author
 Dhivya V
+
 
