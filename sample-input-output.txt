@@ -1,0 +1,8 @@
+Battery Capacity: 100
+Initial Battery: 40
+Charging Rate: 5
+Number of Tasks: 3
+
+Task 1: Duration = 10, Drain Rate = 3
+Task 2: Duration = 8, Drain Rate = 4
+Task 3: Duration = 5, Drain Rate = 6
