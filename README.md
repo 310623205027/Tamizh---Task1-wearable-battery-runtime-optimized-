@@ -32,11 +32,9 @@ Space Complexity: O(1), as only constant extra memory is used
 
 Project Structure
 wearable-battery-runtime-optimizer
-│
-├── mainfunction.java
-│   
-├── README.md
-└── sample-input-output.txt
+ 1. mainfunction.java
+ 2. README.md
+ 3. sample-input-output.txt
 
 
 
@@ -53,5 +51,6 @@ A sample input and corresponding output are provided in sample-input-output.txt 
 
 Author
 Dhivya V
+
 
 
